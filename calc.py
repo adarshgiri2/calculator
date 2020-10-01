@@ -59,3 +59,4 @@ if frm.getvalue('ok'):
         print('Please select an opertation')
 print('''</body>
 </html>''')
+print('Thankyou')
